@@ -94,17 +94,15 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/480p.m3u8
-#EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
 http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://112.101.78.50:9901/tsfile/live/0124_1.m3u8
+http://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111
+http://zhfivel02.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111
+http://zhfivel03.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226339/index.m3u8
+http://zhfivel03.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 
 #EXTINF:-1 group-title="📡卫视频道" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
 http://bkhlsliveali-cdn.ysp.cctv.cn/AB9B043E71AE68E1A98322F745F253D57F005077E9EB2C6E8B007B688C1F6E73D4E05060BF2149106627E8CDB26E29CD3058BE89F9372A5D4759EE8694676C57747042718CFAFB1A48CB0A6A40F6E78535F30E7324EB7A91B5C615858DCCF4FE9AC2A4B268F3B4B6695981818A300B74DF9DEF05716E2D419A87284040C7E7A27DF40FB741EE5D24CDB360804FB02C94A8E8F8C6C2798E7183D6DC6DC1B2FE40034B7A22ACA813643B0466635879A255/2024052701.m3u8?from=player&svrtime=1739783125&pid=600002309&cdn=5506
